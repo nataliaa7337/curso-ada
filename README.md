@@ -1,2 +1,2 @@
-# curso-ada
-subo todo lo que hice
+# ejercicios-ada
+Solución a los ejercicios del curso de introducción a la programación con Python
